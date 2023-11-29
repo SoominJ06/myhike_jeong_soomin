@@ -3,3 +3,8 @@
 node_modules/
 .vscode/
 firebaseAPI_BBY21.js
+firebase.json
+firestore.indexes.json
+firestore.rules
+.firebaserc
+.firebase
